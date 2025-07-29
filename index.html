@@ -4,8 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Turnos</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
-    
+    <header class="header">
+        <h1 class="header__title">Bienvenido</h1>
+        <h2 class="header__subtitle">Aquí se mostrarán los turnos disponibles</h2>
+    </header>
+
+    <section class="section section--canchas">
+        <h3 class="section__title">Seleccioná la cancha</h3>
+        <div class="canchas">
+            <ul class="canchas__list">
+                <li class="canchas__item"> 
+                    <img src="./assets/img/futbol.webp" alt="cancha-futbol-5" class="canchas__image"> 
+                    <span class="canchas__name">Fútbol 5</span>
+                </li>
+                <li class="canchas__item"> 
+                    <img src="./assets/img/padel.webp" alt="paleta-padel" class="canchas__image"> 
+                    <span class="canchas__name">Pádel</span>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <div id="info-individual" class="hidden"></div>
+
+    <script src="./assets/js/funciones.js"></script>
 </body>
 </html>

@@ -1,0 +1,106 @@
+{
+    "deportes": [
+        {
+            "nombre": "Fútbol 5",
+            "canchas": [
+                {
+                    "id": 1,
+                    "nombre": "Cancha Fútbol 5 - A",
+                    "horarios_disponibles": [
+                        "14:00",
+                        "15:00",
+                        "16:00",
+                        "17:00",
+                        "18:00",
+                        "19:00",
+                        "20:00",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "dias": [
+                        "Martes",
+                        "Miércoles",
+                        "Jueves",
+                        "Viernes",
+                        "Sábado",
+                        "Domingo"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "Cancha Fútbol 5 - B",
+                    "horarios_disponibles": [
+                        "14:00",
+                        "15:00",
+                        "16:00",
+                        "17:00",
+                        "18:00",
+                        "19:00",
+                        "20:00",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "dias": [
+                        "Martes",
+                        "Miércoles",
+                        "Jueves",
+                        "Viernes",
+                        "Sábado",
+                        "Domingo"
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Pádel",
+            "canchas": [
+                {
+                    "id": 1,
+                    "nombre": "Cancha Pádel - A",
+                    "horarios_disponibles": [
+                        "14:00",
+                        "15:00",
+                        "16:00",
+                        "17:00",
+                        "18:00",
+                        "19:00",
+                        "20:00",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "dias": [
+                        "Martes",
+                        "Miércoles",
+                        "Jueves",
+                        "Viernes",
+                        "Sábado",
+                        "Domingo"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "Cancha Pádel - B",
+                    "horarios_disponibles": [
+                        "14:00",
+                        "15:00",
+                        "16:00",
+                        "17:00",
+                        "18:00",
+                        "19:00",
+                        "20:00",
+                        "21:00",
+                        "22:00"
+                    ],
+                    "dias": [
+                        "Martes",
+                        "Miércoles",
+                        "Jueves",
+                        "Viernes",
+                        "Sábado",
+                        "Domingo"
+                    ]
+                }
+            ]
+        }
+    ]
+}
